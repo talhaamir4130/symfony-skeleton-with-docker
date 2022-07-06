@@ -4,3 +4,5 @@
 
   `localhost:8080`
 
+  `docker-compose run --rm php74-service php bin/console doctrine:database:create`
+
